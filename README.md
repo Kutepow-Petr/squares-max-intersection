@@ -14,6 +14,21 @@
 только через сырые указатели и динамические массивы (`float**`, 
 `float***`).
 
+## Структура работы
+
+```
+squares-max-intersection/
+├── src/
+│   └── squares-max-intersection.cpp   ← исходный код
+├── docs/
+│   └── report.pdf                     ← пояснительная записка
+├── test/
+│   ├── points.txt                     ← контрольный пример (16 точек)
+│   ├── result.txt            ← ожидаемый result.txt
+│   └── protocol.txt          ← ожидаемый protocol.txt
+└── README.md
+```
+
 ## Как это работает
 
 1. `CalcSize` — читает N из `points.txt`, валидирует (0 < N ≤ 100).
