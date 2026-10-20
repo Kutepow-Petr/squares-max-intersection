@@ -24,8 +24,8 @@ squares-max-intersection/
 │   └── report.pdf                     ← пояснительная записка
 ├── test/
 │   ├── points.txt                     ← контрольный пример (16 точек)
-│   ├── result.txt            ← ожидаемый result.txt
-│   └── protocol.txt          ← ожидаемый protocol.txt
+│   ├── result.txt                     ← ожидаемый result.txt
+│   └── protocol.txt                   ← ожидаемый protocol.txt
 └── README.md
 ```
 
